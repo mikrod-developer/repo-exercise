@@ -1,2 +1,2 @@
 # repo-exercise
-Exercise for the Meta git/github course en Coursera
+Exercise for the Meta git/github course in Coursera
